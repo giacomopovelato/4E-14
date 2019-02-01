@@ -1,2 +1,6 @@
 # 4E-14
-hi! im here to create new programs
+esercizio di prima costruzione di un repository remoto
+
+
+* primo item
+* secondo item
